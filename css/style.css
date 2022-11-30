@@ -412,7 +412,30 @@
       font-size: 2vw;
     }
   }
-
+  
+/* Third Section */
+.thirdSection {
+  padding: 3vw 0;
+}
+.thirdSection h1 {
+  border-top: 0.1vw solid #DF094B;
+  padding-top: 2.5vw;
+  padding-bottom: 2.5vw;
+  font-weight: 400;
+  line-height: 4vw;
+  color: #DF094B;
+  font-size: 3vw;
+}
+.carruselBSM h5 {
+  font-weight: bold;
+  font-size: 1.5vw;
+  color: #74bb1f;
+  text-transform: uppercase;
+}
+.carruselBSM p {
+  font-size: 1.5vw;
+  color: #ffffff;
+}
 
 /*
 Colores:
